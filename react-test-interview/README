@@ -23,5 +23,6 @@ ________________________________________________
 # comment lancer
 
 - Ouvrez terminal sur ce dossier.
-- Lancer npm start (Installer npm avant si ce n'est pas déjà fait)
+- Installer le nécessaire avec 'npm install'
+- Lancer 'npm start'
 - Pour arreter quitter la page puis faites un Ctrl + c dans votre terminal (ou alors fermer le terminal)
